@@ -19,6 +19,7 @@ Feel free to explore these creations!
 ## Skills in My Arsenal
 
 - Web Development: HTML, CSS, JavaScript, React
+- Frameworks : Bootstrap, Tailwind css
 - Version Control: Git, GitHub
 
 ## Let's Connect 🌐
